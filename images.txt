@@ -1,1 +1,3 @@
-linzeyi/hivision_idphotos
+linuxserver/prowlarr
+linuxserver/radarr
+linuxserver/sonarr
