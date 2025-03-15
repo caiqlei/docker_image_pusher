@@ -1,3 +1,1 @@
-linuxserver/prowlarr
-linuxserver/radarr
-linuxserver/sonarr
+plexinc/pms-docker
