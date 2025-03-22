@@ -1,1 +1,3 @@
-linuxserver/jackett
+linuxserver/prowlarr
+linuxserver/radarr
+linuxserver/sonarr
