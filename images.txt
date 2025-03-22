@@ -1,1 +1,1 @@
-zonty/nas-tools
+nastools/nas-tools
