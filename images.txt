@@ -1,2 +1,1 @@
-linuxserver/prowlarr
-linuxserver/radarr
+linuxserver/sonarr
