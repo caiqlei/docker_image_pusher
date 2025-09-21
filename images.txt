@@ -1,1 +1,1 @@
-ghcr.io/rishikanthc/qrding:latest
+hanxi/xiaomusic
