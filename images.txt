@@ -1,1 +1,1 @@
-jxxghp/moviepilot
+linuxserver/plex
